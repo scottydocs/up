@@ -30,6 +30,14 @@ To add the Up script to your terminal:
     ```
 3. Write and save the changes using `:wq`.
 
+4. Reload your bash file:
+
+```source ~/.bashrc``` 
+
+Alternatively, run the shortcut:
+
+```. ~/.bashrc```
+
 ## Using Up
 You can now use the script to move up a number of directories from you current location.
 
