@@ -41,7 +41,7 @@ To add the Up script to your terminal:
 You can now use the script to move up a number of directories from you current location.
 
 ## Using Up
-To use the script, you can use `up N` where `N` representd the number of directories you want to move up:
+To use the script, you can use `up` followed by `N`, the number of directories you want to move up:
 
 `up N`
 
