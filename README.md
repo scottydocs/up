@@ -45,7 +45,7 @@ To use the script, you can use `up` followed by `N`, the number of directories y
 
 `up N`
 
-For example if you are in `/git/repository1/folder1/sub-folder1/sub-folder2/sub-folder3/`, you can move back up to the `git` directory using: 
+For example, if you are in `/git/repository1/folder1/sub-folder1/sub-folder2/sub-folder3/` and you want to move up to the `git` directory, you can run: 
 
 ```up 5```
 
