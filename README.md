@@ -1,7 +1,7 @@
 ## 🎈 Up
 A simple bash script that allows you to quickly move up a number of directories from the command line.
 
-I modified this really useful script from the original posted [here](https://stackoverflow.com/questions/188162/what-is-the-most-useful-script-youve-written-for-everyday-life/245724#245724). 
+I copied and modified this really useful script from the original posted [here](https://stackoverflow.com/questions/188162/what-is-the-most-useful-script-youve-written-for-everyday-life/245724#245724). 
 
 ## 🎬 Getting Started
 To add the Up script to your terminal:
