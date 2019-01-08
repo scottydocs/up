@@ -32,14 +32,18 @@ To add the Up script to your terminal:
 
 4. Reload your bash file:
 
-```source ~/.bashrc``` 
+   ```source ~/.bashrc``` 
 
-Alternatively, run the shortcut:
+   Alternatively, run the shortcut:
 
-```. ~/.bashrc```
+   ```. ~/.bashrc```
+   
+You can now use the script to move up a number of directories from you current location.
 
 ## Using Up
-You can now use the script to move up a number of directories from you current location.
+To use the script, you can use `up N` where `N` representd the number of directories you want to move up:
+
+`up N`
 
 For example if you are in `/git/repository1/folder1/sub-folder1/sub-folder2/sub-folder3/`, you can move back up to the `git` directory using: 
 
