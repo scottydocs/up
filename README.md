@@ -1,9 +1,9 @@
-## Up
+## 🎈 Up
 A simple bash script that allows you to quickly move up a number of directories from the command line.
 
 I modified this really useful script from the original posted [here](https://stackoverflow.com/questions/188162/what-is-the-most-useful-script-youve-written-for-everyday-life/245724#245724). 
 
-## Getting Started
+## 🎬 Getting Started
 To add the Up script to your terminal:
 
 1. Edit your `.bashrc file`, the shell script that Bash runs whenever you start it:
@@ -40,7 +40,7 @@ To add the Up script to your terminal:
    
 You can now use the script to move up a number of directories from you current location.
 
-## Using Up
+## 💻 Using Up
 To use the script, you can use `up` followed by `N`, the number of directories you want to move up:
 
 `up N`
